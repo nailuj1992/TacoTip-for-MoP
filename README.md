@@ -8,6 +8,8 @@ TacoTip enriches the default unit and item tooltips with information that matter
 
 Every feature is configurable. You decide exactly what gets shown.
 
+**Download:** [TacoTip for MoP on CurseForge](https://www.curseforge.com/wow/addons/tacotip-for-mop)
+
 ---
 
 ## Features

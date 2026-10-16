@@ -12,6 +12,7 @@ externals:
   Libs/UTF8: https://github.com/Road-block/UTF8.git
 
 ignore:
+  - AGENTS.md
   - .github
   - CHANGELOG.md
   - .gitignore
